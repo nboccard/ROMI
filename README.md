@@ -1,2 +1,2 @@
 # ROMI
-graphic output of ht eROMI project
+graphic output of the ROMI project
